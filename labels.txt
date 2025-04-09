@@ -1,0 +1,14 @@
+# Label mapping
+id2label = {
+    0: "aluminium",
+    1: "batteries",
+    2: "cardboard",
+    3: "disposable plates",
+    4: "glass",
+    5: "hard plastic",
+    6: "paper",
+    7: "paper towel",
+    8: "polystyrene",
+    9: "soft plastics",
+    10: "takeaway cups"
+}
